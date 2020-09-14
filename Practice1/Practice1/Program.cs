@@ -154,9 +154,12 @@ namespace Practice1
                 }
             }
 
-            teacherList.Add(mathTeacher);
-            teacherList.Add(scienceTeacher);
-            teacherList.Add(englishTeacher);
+            if(!mathTeacher.Equals(""))
+                teacherList.Add(mathTeacher);
+            if (!scienceTeacher.Equals(""))
+                teacherList.Add(scienceTeacher);
+            if (!englishTeacher.Equals(""))
+                teacherList.Add(englishTeacher);
 
             foreach(string element in teacherList)
             {

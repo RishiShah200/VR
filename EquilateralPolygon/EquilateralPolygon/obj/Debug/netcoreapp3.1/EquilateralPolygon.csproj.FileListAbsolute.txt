@@ -1,0 +1,13 @@
+C:\Users\rishi\Documents\SBHS\12th\VR\EquilateralPolygon\EquilateralPolygon\bin\Debug\netcoreapp3.1\EquilateralPolygon.exe
+C:\Users\rishi\Documents\SBHS\12th\VR\EquilateralPolygon\EquilateralPolygon\bin\Debug\netcoreapp3.1\EquilateralPolygon.deps.json
+C:\Users\rishi\Documents\SBHS\12th\VR\EquilateralPolygon\EquilateralPolygon\bin\Debug\netcoreapp3.1\EquilateralPolygon.runtimeconfig.json
+C:\Users\rishi\Documents\SBHS\12th\VR\EquilateralPolygon\EquilateralPolygon\bin\Debug\netcoreapp3.1\EquilateralPolygon.runtimeconfig.dev.json
+C:\Users\rishi\Documents\SBHS\12th\VR\EquilateralPolygon\EquilateralPolygon\bin\Debug\netcoreapp3.1\EquilateralPolygon.dll
+C:\Users\rishi\Documents\SBHS\12th\VR\EquilateralPolygon\EquilateralPolygon\bin\Debug\netcoreapp3.1\EquilateralPolygon.pdb
+C:\Users\rishi\Documents\SBHS\12th\VR\EquilateralPolygon\EquilateralPolygon\obj\Debug\netcoreapp3.1\EquilateralPolygon.csprojAssemblyReference.cache
+C:\Users\rishi\Documents\SBHS\12th\VR\EquilateralPolygon\EquilateralPolygon\obj\Debug\netcoreapp3.1\EquilateralPolygon.AssemblyInfoInputs.cache
+C:\Users\rishi\Documents\SBHS\12th\VR\EquilateralPolygon\EquilateralPolygon\obj\Debug\netcoreapp3.1\EquilateralPolygon.AssemblyInfo.cs
+C:\Users\rishi\Documents\SBHS\12th\VR\EquilateralPolygon\EquilateralPolygon\obj\Debug\netcoreapp3.1\EquilateralPolygon.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Documents\SBHS\12th\VR\EquilateralPolygon\EquilateralPolygon\obj\Debug\netcoreapp3.1\EquilateralPolygon.dll
+C:\Users\rishi\Documents\SBHS\12th\VR\EquilateralPolygon\EquilateralPolygon\obj\Debug\netcoreapp3.1\EquilateralPolygon.pdb
+C:\Users\rishi\Documents\SBHS\12th\VR\EquilateralPolygon\EquilateralPolygon\obj\Debug\netcoreapp3.1\EquilateralPolygon.genruntimeconfig.cache
