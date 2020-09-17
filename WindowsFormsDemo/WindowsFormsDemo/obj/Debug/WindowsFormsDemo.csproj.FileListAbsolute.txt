@@ -1,0 +1,10 @@
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe.config
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.pdb
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csprojAssemblyReference.cache
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Form1.resources
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Properties.Resources.resources
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.GenerateResource.cache
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.exe
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.pdb
