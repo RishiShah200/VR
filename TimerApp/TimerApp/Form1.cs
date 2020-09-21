@@ -39,7 +39,7 @@ namespace TimerApp
                 if (seconds)
                 {
                     stopwatch.Stop();
-                    label1.Text = stopwatch.Elapsed.ToString();
+                    label1.Text = (stopwatch.ElapsedMilliseconds / 1000.0).ToString();
                 }
                 else if (milliseconds)
                 {

@@ -1,0 +1,12 @@
+C:\Users\rishi\Documents\SBHS\12th\VR\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.exe
+C:\Users\rishi\Documents\SBHS\12th\VR\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.deps.json
+C:\Users\rishi\Documents\SBHS\12th\VR\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.runtimeconfig.json
+C:\Users\rishi\Documents\SBHS\12th\VR\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.runtimeconfig.dev.json
+C:\Users\rishi\Documents\SBHS\12th\VR\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.dll
+C:\Users\rishi\Documents\SBHS\12th\VR\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.pdb
+C:\Users\rishi\Documents\SBHS\12th\VR\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.AssemblyInfoInputs.cache
+C:\Users\rishi\Documents\SBHS\12th\VR\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.AssemblyInfo.cs
+C:\Users\rishi\Documents\SBHS\12th\VR\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Documents\SBHS\12th\VR\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.dll
+C:\Users\rishi\Documents\SBHS\12th\VR\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.pdb
+C:\Users\rishi\Documents\SBHS\12th\VR\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.genruntimeconfig.cache
