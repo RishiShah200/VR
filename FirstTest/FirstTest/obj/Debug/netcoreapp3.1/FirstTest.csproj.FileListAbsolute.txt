@@ -1,0 +1,13 @@
+C:\Users\rishi\Documents\SBHS\12th\VR\FirstTest\FirstTest\bin\Debug\netcoreapp3.1\FirstTest.exe
+C:\Users\rishi\Documents\SBHS\12th\VR\FirstTest\FirstTest\bin\Debug\netcoreapp3.1\FirstTest.deps.json
+C:\Users\rishi\Documents\SBHS\12th\VR\FirstTest\FirstTest\bin\Debug\netcoreapp3.1\FirstTest.runtimeconfig.json
+C:\Users\rishi\Documents\SBHS\12th\VR\FirstTest\FirstTest\bin\Debug\netcoreapp3.1\FirstTest.runtimeconfig.dev.json
+C:\Users\rishi\Documents\SBHS\12th\VR\FirstTest\FirstTest\bin\Debug\netcoreapp3.1\FirstTest.dll
+C:\Users\rishi\Documents\SBHS\12th\VR\FirstTest\FirstTest\bin\Debug\netcoreapp3.1\FirstTest.pdb
+C:\Users\rishi\Documents\SBHS\12th\VR\FirstTest\FirstTest\obj\Debug\netcoreapp3.1\FirstTest.csprojAssemblyReference.cache
+C:\Users\rishi\Documents\SBHS\12th\VR\FirstTest\FirstTest\obj\Debug\netcoreapp3.1\FirstTest.AssemblyInfoInputs.cache
+C:\Users\rishi\Documents\SBHS\12th\VR\FirstTest\FirstTest\obj\Debug\netcoreapp3.1\FirstTest.AssemblyInfo.cs
+C:\Users\rishi\Documents\SBHS\12th\VR\FirstTest\FirstTest\obj\Debug\netcoreapp3.1\FirstTest.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Documents\SBHS\12th\VR\FirstTest\FirstTest\obj\Debug\netcoreapp3.1\FirstTest.dll
+C:\Users\rishi\Documents\SBHS\12th\VR\FirstTest\FirstTest\obj\Debug\netcoreapp3.1\FirstTest.pdb
+C:\Users\rishi\Documents\SBHS\12th\VR\FirstTest\FirstTest\obj\Debug\netcoreapp3.1\FirstTest.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormTest\WindowsFormTest\bin\Debug\WindowsFormTest.exe.config
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormTest\WindowsFormTest\bin\Debug\WindowsFormTest.exe
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormTest\WindowsFormTest\bin\Debug\WindowsFormTest.pdb
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormTest\WindowsFormTest\obj\Debug\WindowsFormTest.csprojAssemblyReference.cache
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormTest\WindowsFormTest\obj\Debug\WindowsFormTest.Form1.resources
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormTest\WindowsFormTest\obj\Debug\WindowsFormTest.Properties.Resources.resources
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormTest\WindowsFormTest\obj\Debug\WindowsFormTest.csproj.GenerateResource.cache
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormTest\WindowsFormTest\obj\Debug\WindowsFormTest.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormTest\WindowsFormTest\obj\Debug\WindowsFormTest.exe
+C:\Users\rishi\Documents\SBHS\12th\VR\WindowsFormTest\WindowsFormTest\obj\Debug\WindowsFormTest.pdb
